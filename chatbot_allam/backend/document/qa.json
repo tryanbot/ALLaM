@@ -1,0 +1,38 @@
+[
+    {
+      "question": "What is the main purpose of the Law of Domestic Pilgrim Services?",
+      "reference": "The main purpose of the Law of Domestic Pilgrim Services is to regulate the provision of services required for domestic pilgrims to help them perform Hajj rituals with ease.",
+      "context": [
+        "Article 1: This Law aims to regulate the provision of required services for domestic pilgrims in order to help them perform Hajj rituals with ease."
+      ]
+    },
+    {
+      "question": "Who is responsible for issuing licenses to establishments providing services to domestic pilgrims?",
+      "reference": "The Ministry of Hajj is responsible for issuing licenses to establishments providing services to domestic pilgrims.",
+      "context": [
+        "Article 6: The Ministry of Hajj shall issue licenses after the Minister of Hajj approves the decisions of the committee set forth in Article 5 of this Law."
+      ]
+    },
+    {
+      "question": "What penalty can be imposed on a licensee who violates the provisions of the Law of Domestic Pilgrim Services?",
+      "reference": "A licensee who violates the provisions of this Law can be fined up to 100,000 riyals, and additional penalties may include reducing the number of pilgrims they are licensed to serve, suspension from work for one or more seasons, or license revocation.",
+      "context": [
+        "Article 20: Licensees who violate the provisions of this Law shall be punishable by a fine not exceeding one hundred thousand riyals. In addition, the number of pilgrims that they are licensed to serve may be reduced, or they may be suspended from work for one or more seasons, or their license may be revoked."
+      ]
+    },
+    {
+      "question": "What is the process for a licensee to appeal a penalty decision?",
+      "reference": "A licensee may appeal a penalty decision before the Board of Grievances within sixty days of being notified of the decision.",
+      "context": [
+        "Article 22, section 2: Any person against whom a penalty decision was issued may appeal same before the Board of Grievances within sixty days of the date of his notification of the decision."
+      ]
+    },
+    {
+      "question": "Are there any conditions under which a license to provide pilgrim services can be revoked without request from the licensee?",
+      "reference": "Yes, a license can be revoked if the licensee fails to provide services for two consecutive or three separate seasons without notifying the Ministry, among other conditions.",
+      "context": [
+        "Article 25, section 4: If the license holder fails to provide this service for two consecutive or three separate seasons without notifying the Ministry of Hajj and submitting an excuse acceptable to the Ministry;"
+      ]
+    }
+  ]
+  

@@ -1,0 +1,4 @@
+__pycache__
+.ipynb_checkpoints
+.env
+condaenv.bp_e23ri.requirements.txt
